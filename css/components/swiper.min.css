@@ -1,0 +1,8 @@
+.swiper-container {
+    max-width: 1000px;
+    height: 400px;
+    margin: 40px 0;
+}
+.swiper-button-prev {
+    color: red;
+}

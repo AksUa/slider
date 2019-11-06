@@ -1,0 +1,10 @@
+.your-class img {
+    height: 500px;
+    object-fit: cover;
+    margin:40px 0;
+}
+.your-class2 img {
+    height: 300px;
+    object-fit: cover;
+    margin: 40px 0;
+}
